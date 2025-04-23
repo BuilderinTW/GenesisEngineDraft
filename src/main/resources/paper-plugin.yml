@@ -1,0 +1,6 @@
+name: GenesisEngineDraft
+version: '0.0.1'
+main: dev.twme.genesisenginedraft.GenesisEngineDraft
+api-version: '1.21'
+load: STARTUP
+authors: [ TWME-TW ]
