@@ -1,6 +1,6 @@
 package dev.twme.genesisenginedraft.space.world;
 
-import dev.twme.genesisenginedraft.space.world.state.Visibility;
+import dev.twme.genesisenginedraft.space.world.state.WorldVisibility;
 
 public abstract class GEWorldData {
     protected String worldID;
@@ -10,7 +10,7 @@ public abstract class GEWorldData {
 
     protected int seed;
 
-    protected Visibility visibility;
+    protected WorldVisibility worldVisibility;
 
     /**
      * Get the world ID

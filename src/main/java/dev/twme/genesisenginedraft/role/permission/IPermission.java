@@ -1,9 +1,9 @@
-package dev.twme.genesisenginedraft.user.role.permission;
+package dev.twme.genesisenginedraft.role.permission;
 
 import dev.twme.genesisenginedraft.user.User;
 
 public interface IPermission {
-    String getName();
+    String id();
 
     boolean isAllow(User user);
 

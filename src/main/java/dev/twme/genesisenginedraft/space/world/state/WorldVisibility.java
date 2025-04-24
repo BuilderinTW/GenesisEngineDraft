@@ -1,6 +1,6 @@
 package dev.twme.genesisenginedraft.space.world.state;
 
-public enum Visibility {
+public enum WorldVisibility {
     PUBLIC,
     PRIVATE
 }
