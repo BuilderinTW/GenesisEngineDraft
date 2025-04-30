@@ -1,5 +1,5 @@
 package dev.twme.genesisenginedraft.space.world.util;
 
-public class GEWorldLoader {
+public class LoadWorld {
 
 }

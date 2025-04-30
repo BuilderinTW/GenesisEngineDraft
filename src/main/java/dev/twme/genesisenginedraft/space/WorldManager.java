@@ -1,6 +1,6 @@
 package dev.twme.genesisenginedraft.space;
 
-public class GEWorldManager {
+public class WorldManager {
 
 
 

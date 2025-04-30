@@ -1,12 +1,15 @@
 package dev.twme.genesisenginedraft.space.world;
 
 import dev.twme.genesisenginedraft.space.world.state.WorldVisibility;
+import dev.twme.genesisenginedraft.user.User;
 
 public abstract class GEWorldData {
     protected String worldID;
     protected String worldDisplayName;
     protected String worldGeneratorID;
     protected String worldDescription;
+
+    protected User worldOwner;
 
     protected int seed;
 

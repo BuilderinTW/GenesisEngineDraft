@@ -21,7 +21,7 @@ public abstract class AbstractRole {
         return roleDisplayName;
     }
 
-    public List<IPermission> getPermissions() {
+    public List<IPermission> getPermissionList() {
         return permissions;
     }
 }
